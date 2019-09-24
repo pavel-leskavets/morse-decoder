@@ -38,6 +38,7 @@ const MORSE_TABLE = {
 };
 
 function decode(expr) {
+    Решай сам немытая ты крыса)
     // write your solution here
 }
 
